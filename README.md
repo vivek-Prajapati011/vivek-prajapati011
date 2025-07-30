@@ -1,5 +1,6 @@
-<h1 align="center"> Hey! Nice to see you. Welcome to my page! I'm Vivek, CS student from planet Earth 🌏, currently living in India.</h1>
-<h3 align="center">Aspiring Frontend Developer | Skilled in React & Tailwind | Seeking internship opportunities</h3>
+<h1 align="center"><img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/15b1cae6-9cdc-4494-b7a2-f493e8b611e6" />
+ Hey! Nice to see you. </h1>
+<h3 align="center">Welcome to my page! I'm Vivek, CSE student from planet Earth 🌏, currently living in India.</h3>
 
 <h3 align="left">Things I code with:</h3>
 
