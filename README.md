@@ -68,7 +68,7 @@
 ---
 
 ### 💼 Projects & Learning:
-- 🔭 I’m currently working on [Expense Tracker](https://github.com/vivek-Prajapati011/expense-Tracker)  
+- 🔭 I’m currently working on [MiniDoc](https://github.com/vivek-Prajapati011/MiniDoc)  
 - 🌱 I’m currently learning **Backend Development**  
 - 💬 Ask me about **React, JavaScript, Node.js**  
 
