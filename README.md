@@ -6,63 +6,15 @@
 
 <h3 align="left">🚀 Things I code with:</h3>
 
-<p align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" 
-         alt="C++" width="50" height="50"
-         style="transition: transform 0.3s, box-shadow 0.3s; border-radius: 10px;"
-         onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0px 4px 12px rgba(0,0,0,0.3)'"
-         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
-         alt="CSS3" width="50" height="50"
-         style="transition: transform 0.3s, box-shadow 0.3s;"
-         onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0px 4px 12px rgba(0,0,0,0.3)'"
-         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-         alt="Git" width="50" height="50"
-         style="transition: transform 0.3s, box-shadow 0.3s;"
-         onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0px 4px 12px rgba(0,0,0,0.3)'"
-         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
-         alt="HTML5" width="50" height="50"
-         style="transition: transform 0.3s, box-shadow 0.3s;"
-         onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0px 4px 12px rgba(0,0,0,0.3)'"
-         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
-         alt="JavaScript" width="50" height="50"
-         style="transition: transform 0.3s, box-shadow 0.3s;"
-         onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0px 4px 12px rgba(0,0,0,0.3)'"
-         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
-         alt="Node.js" width="50" height="50"
-         style="transition: transform 0.3s, box-shadow 0.3s;"
-         onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0px 4px 12px rgba(0,0,0,0.3)'"
-         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
-         alt="React" width="50" height="50"
-         style="transition: transform 0.3s, box-shadow 0.3s;"
-         onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0px 4px 12px rgba(0,0,0,0.3)'"
-         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" 
-         alt="Tailwind CSS" width="50" height="50"
-         style="transition: transform 0.3s, box-shadow 0.3s;"
-         onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0px 4px 12px rgba(0,0,0,0.3)'"
-         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'"/>
-  </a>
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
