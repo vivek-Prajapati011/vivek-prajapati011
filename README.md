@@ -22,7 +22,7 @@
 ### 💼 Projects & Learning:
 - 🔭 I’m currently working on [MiniDoc](https://github.com/vivek-Prajapati011/MiniDoc) and [CraveCart](https://github.com/vivek-Prajapati011/CraveCart)  
 - 🌱 I’m currently learning **Backend Development**  
-- 💬 Ask me about **React, JavaScript, Node.js** 
+- 💬 Ask me about **React, JavaScript, Node.js** ,express.js
 
 ---
 
